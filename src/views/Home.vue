@@ -7,8 +7,8 @@
 </template>
 
 <script>
-import Landing from '@/components/Landing.vue'
-import Dashboard from '@/components/Dashboard.vue'
+import Landing from '@/views/Landing.vue'
+import Dashboard from '@/views/Dashboard.vue'
 import { Person } from 'blockstack'
 import { userSession } from '../userSession'
 
