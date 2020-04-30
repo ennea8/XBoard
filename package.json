@@ -1,8 +1,8 @@
 {
   "name": "XBoard",
-  "version": "0.0.1",
+  "version": "0.0.1-hackthon",
   "description": "More than a decentralized kanban board",
-  "author": "Ennea8 <ennea8@gmail.com>",
+  "author": "Ennea8 <ennea8@gmail.com>(https://xboard.netlify.app)",
   "contributors": [
   ],
   "repository": {
