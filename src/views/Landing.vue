@@ -1,7 +1,7 @@
 <template>
   <div class="center">
     <div class="panel-landing" id="section-1">
-      <h1 class="landing-heading">Wecome, XBoard!</h1>
+      <h1 class="landing-heading">Wecome on XBoard!</h1>
       <p class="lead">
         <a
                 href="#"
